@@ -18,14 +18,8 @@ class Solution {
                
             
             }
-             s1.add(s.charAt(right));
-                 maxlength = Math.max(maxlength, right - left + 1);
-
-
-           
-            
-                
-            
+                s1.add(s.charAt(right));
+                 maxlength = Math.max(maxlength, right - left + 1);   
         }
         
         return maxlength;
