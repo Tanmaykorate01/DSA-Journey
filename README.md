@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0344-reverse-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0217-contains-duplicate) |
 ## Brainteaser
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
