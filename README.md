@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -97,4 +99,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
