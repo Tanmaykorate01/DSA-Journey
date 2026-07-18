@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0724-find-pivot-index) |
 ## Counting
 |  |
 | ------- |
