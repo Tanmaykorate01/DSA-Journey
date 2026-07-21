@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0326-power-of-three) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
