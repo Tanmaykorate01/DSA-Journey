@@ -5,6 +5,7 @@ class Solution {
         //i for row
         for(int i =0;i<n;i++)
         {
+            //forcolmn // changing only uppertraingular
             for(int j= i+1;j<n;j++)
             {
                 int temp = matrix[i][j] ;
