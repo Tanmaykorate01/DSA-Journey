@@ -5,20 +5,19 @@ class Solution {
         int maxsum = Integer.MIN_VALUE;
 
 
-        for(int i = 0 ;i<nums.length;i++)
+        for(int i= 0;i<nums.length;i++)
         {
-            sum = sum + nums[i];
+            sum = sum+ nums[i];
             if(sum>maxsum)
             {
                 maxsum = sum;
             }
             if(sum<0)
             {
-                sum = 0;
+                sum =0;
 
             }
         }
         return maxsum;
-        
     }
 }
