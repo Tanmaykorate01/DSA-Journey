@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0867-transpose-matrix) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
