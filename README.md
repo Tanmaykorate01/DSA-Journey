@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
@@ -168,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0182-duplicate-emails) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
