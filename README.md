@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0326-power-of-three) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
