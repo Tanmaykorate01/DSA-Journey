@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0326-power-of-three) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1025-divisor-game) |
 ## Recursion
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
