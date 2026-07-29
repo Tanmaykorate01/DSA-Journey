@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0796-rotate-string) |
 ## Dynamic Programming
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1089-duplicate-zeros) |
