@@ -5,7 +5,7 @@ class Solution {
 
         for(int n : nums)
         {
-            xorsum =  xorsum ^ n;
+            xorsum ^= n;
         }
 
         int  n = nums.length;
