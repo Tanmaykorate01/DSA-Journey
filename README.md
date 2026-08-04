@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2643-row-with-maximum-ones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2643-row-with-maximum-ones) |
+| [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3925-concatenate-array-with-reverse) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 ## Brainteaser
 |  |
