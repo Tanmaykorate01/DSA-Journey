@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1089-duplicate-zeros) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 ## Brainteaser
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
