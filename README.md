@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2643-row-with-maximum-ones) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
