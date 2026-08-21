@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0136-single-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0231-power-of-two) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
