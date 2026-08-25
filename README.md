@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0877-stone-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
