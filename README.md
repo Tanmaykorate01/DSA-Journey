@@ -362,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0216-combination-sum-iii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
