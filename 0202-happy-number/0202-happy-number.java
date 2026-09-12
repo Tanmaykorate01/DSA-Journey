@@ -1,39 +1,40 @@
-class Solution 
-{
+class Solution
+ {
     public boolean isHappy(int n)
      {
-        int sum = 0;
-        HashSet<Integer> h1 = new HashSet<>();
-        
-        while(sum !=1)
-        {
-             sum  = 0;
+            HashSet<Integer>  h1 = new HashSet();
 
-            while (n > 0)
-             {
+        while(n!=0)
+        {
+        
+                int sum  = 0;
+            while(n!=0)
+            {
                 int digit = n % 10;
-                sum = sum + digit * digit;
-                n = n / 10;
+                int sqr = digit * digit;
+                n  =  n / 10;
+                sum += sqr;
 
             }
-
-
-            if (sum == 1) 
+            n = sum;
+            if(n ==1)
             {
                 return true;
-
             }
-            if (h1.contains(sum)) 
+            else
             {
-                return false;
-            } 
-            else 
+                if(h1.contains(n))
+                {
+                    return false;
+                }
+                  else
             {
-                h1.add(sum);
-                n = sum;
+                h1.add(n);
             }
+            }
+          
         }
-        return false;
-       
-    }
+return false;
+            
+     }
 }
