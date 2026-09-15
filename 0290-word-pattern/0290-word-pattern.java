@@ -1,50 +1,45 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) 
-    { 
-        String words[]  = s.split(" ");
+    {
+        String words[] = s.split(" ");
+
+        if(pattern.length()<words.length || words.length<pattern.length())
+        {
+            return false;
+        }
 
         HashMap<Character,String> h1 = new HashMap();
-        HashMap<String,Character> h2 = new HashMap();
+          HashMap<String,Character> h2 = new HashMap();
 
+          for(int i = 0;i<pattern.length();i++)
+          {
+            char charpattern = pattern.charAt(i);
+            String word = words[i];
 
-               if(pattern.length()<words.length || pattern.length()>words.length)
-               {
-                return false;
-               } 
-
-
-
-            for(int i = 0;i <pattern.length();i++)
+            if(h1.containsKey(charpattern))
             {
-                char pat = pattern.charAt(i);
-                String word = words[i];
-
-
-                if(h1.containsKey(pat))
+                if(h1.get(charpattern).equals(word))
                 {
-                    if(h1.get(pat).equals(word))
-                    {
-                        
-                        
-                    }
-                    else
-                    {
-                        return false;
-                    }
+
                 }
                 else
                 {
-                    if(h2.containsKey(word))
-                    {
-                        return false;
-                    }
-                    else
-                    {
-                        h1.put(pat,word);
-                        h2.put(word,pat);
-                    }
+                    return false;
                 }
             }
-            return true;
+            else
+            {
+                if(h2.containsKey(word))
+                {
+                    return false;
+                }
+                else
+                {
+                    h1.put(charpattern,word);
+                    h2.put(word,charpattern);
+                }
+            }
+          }
+        return true;
     }
 }
