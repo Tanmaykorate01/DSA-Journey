@@ -21,12 +21,13 @@ class Solution {
                   {
                         ans.clear();
                         ans.add(word);
+                        minimumindex = Math.min(minimumindex,index);
                   }
-                  if(index == minimumindex)
+                 else if(index == minimumindex)
                   {
                     ans.add(word);
                   }
-                  minimumindex = Math.min(minimumindex,index);
+                  
 
                 }
             }
