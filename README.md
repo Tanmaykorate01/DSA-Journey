@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0443-string-compression) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 ## String Matching
