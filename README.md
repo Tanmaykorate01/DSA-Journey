@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0796-rotate-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 ## String Matching
 |  |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -370,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 ## Combinatorics
 |  |
 | ------- |
@@ -412,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
