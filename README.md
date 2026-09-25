@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2643-row-with-maximum-ones) |
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3925-concatenate-array-with-reverse) |
