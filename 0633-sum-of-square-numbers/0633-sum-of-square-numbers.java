@@ -4,10 +4,10 @@ class Solution {
         int left  = 0;
          int right = (int)Math.sqrt(c);
 
-        if(c==1 || c==0)
-        {
-            return true;
-        }
+        // if(c==1 || c==0)
+        // {
+        //     return true;
+        // }
 
     while(left<=right)
         {
