@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0217-contains-duplicate) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0217-contains-duplicate) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
@@ -444,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1051-height-checker) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
