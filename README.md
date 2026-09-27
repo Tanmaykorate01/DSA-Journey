@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
