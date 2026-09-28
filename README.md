@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 ## String Matching
