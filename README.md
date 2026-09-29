@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
