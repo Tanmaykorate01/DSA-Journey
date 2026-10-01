@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1668-maximum-repeating-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1668-maximum-repeating-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1025-divisor-game) |
+| [1668-maximum-repeating-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1668-maximum-repeating-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1668-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
