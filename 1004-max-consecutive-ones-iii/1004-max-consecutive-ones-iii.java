@@ -12,8 +12,8 @@ class Solution {
             if(nums[i] == 0)
             {
                 zero++;
-                
-                if(zero<k)
+
+                if(zero<=k)
                 {
                         len  = i - left +1;
                         max = Math.max(len,max);
