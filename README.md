@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2643-row-with-maximum-ones) |
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
