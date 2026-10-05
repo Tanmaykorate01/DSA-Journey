@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2235-add-two-integers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1037-valid-boomerang](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
