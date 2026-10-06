@@ -63,8 +63,6 @@ class Solution {
             }
     
         }
-
-         
          return stack.pop();
     }
 }
