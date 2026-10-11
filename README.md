@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -523,5 +525,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
