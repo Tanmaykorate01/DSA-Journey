@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
@@ -527,4 +529,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
