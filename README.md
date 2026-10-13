@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3925-concatenate-array-with-reverse) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
