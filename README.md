@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Geometry
 |  |
 | ------- |
