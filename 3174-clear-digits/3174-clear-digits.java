@@ -11,15 +11,18 @@ class Solution {
             if( !stack.isEmpty() && Character.isDigit(ch))
             {
                 stack.pop();
-                ans.deleteCharAt(ans.length()-1);
+                
             }
             else
             {
                  stack.push(ch);
-                 ans.append(ch);
             }
-        }
 
+        }
+                for(char ch: stack)
+                {
+                    ans.append(ch);
+                }
 
         return ans.toString();
     }
