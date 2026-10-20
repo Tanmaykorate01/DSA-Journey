@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Database
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3174-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
