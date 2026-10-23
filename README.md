@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
