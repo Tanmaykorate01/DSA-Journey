@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2469-convert-the-temperature) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3925-concatenate-array-with-reverse) |
