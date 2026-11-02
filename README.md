@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
