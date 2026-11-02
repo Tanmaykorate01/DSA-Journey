@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1037-valid-boomerang) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
