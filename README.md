@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0507-perfect-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0704-binary-search) |
