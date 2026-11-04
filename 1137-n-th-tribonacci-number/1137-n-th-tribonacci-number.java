@@ -29,10 +29,10 @@ class Solution {
             third = next;
         }
 
-        int sum = third;
+       
         
 
-        return sum;
+        return third;
     }
         
 }
