@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1991-find-the-middle-index-in-array) |
 ## Counting
 |  |
 | ------- |
