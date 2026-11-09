@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2404-most-frequent-even-element) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2784-check-if-array-is-good](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2404-most-frequent-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3866-first-unique-even-element) |
 ## String Matching
