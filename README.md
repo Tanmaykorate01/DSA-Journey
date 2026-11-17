@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0326-power-of-three) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanmaykorate01/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
